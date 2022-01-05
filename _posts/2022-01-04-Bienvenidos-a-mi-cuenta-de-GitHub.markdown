@@ -3,7 +3,7 @@ layout: post
 title:  Bienvenidos a mi cuenta de GitHub
 date:   2022-01-04 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: pinguinos.jpg.jpg # Add image post (optional)
+img: pinguinos.jpg # Add image post (optional)
 tags: [Blog, Sunset]
 author: # Add name author (optional)
 ---
